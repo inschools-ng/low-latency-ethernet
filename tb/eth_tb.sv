@@ -14,7 +14,8 @@ end
 `endif
 
 // display the interfaces for comparison
-// modules to be attached 
+// modules to be attached
+// assertions to be made very soon 
 
 /* Top level tb for ethernet modules */
 module eth_tb;
