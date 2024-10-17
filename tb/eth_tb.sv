@@ -13,6 +13,8 @@ end
 	assert( X )
 `endif
 
+// display the interfaces for comparison
+// modules to be attached 
 
 /* Top level tb for ethernet modules */
 module eth_tb;
